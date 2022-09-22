@@ -3,7 +3,7 @@
  2. You need npm installed on your workstation.
  3. You need mongodb databse installed on your workstation and its path must me set.
  4. After open main folder of the project open terminl there (cmd in case of windows).
- 5. Type      npm install body-paresr ejs express      (and hit enter)
+ 5. Type      npm install body-paresr ejs express mongo mongoose     (and hit enter)
  6. Wait till packages installed after that
  7. command (in terminal or cmd)       node app.js
  8. Open your browser and type http://localhost:3000  in url .
